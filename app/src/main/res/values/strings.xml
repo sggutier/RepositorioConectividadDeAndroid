@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionConectividadWifi</string>
+    <string name="permission_rationale">No puedo darte la lista de access points sin permisos 🙃</string>
+    <string name="ok">Entendido</string>
+</resources>
